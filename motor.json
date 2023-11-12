@@ -1,0 +1,14 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"json"},
+{"type":"table","name":"motor","database":"json","data":
+[
+{"ID":"1","Nama Motor":"Superleggera V4","Merk Motor":"Ducati","Tahun Produksi":"2021","Cylinder":"4","Gambar":"https:\/\/postimg.cc\/9r2Lwhz4"},
+{"ID":"2","Nama Motor":"R1M","Merk Motor":"Yamaha","Tahun Produksi":"2022","Cylinder":"4","Gambar":"https:\/\/postimg.cc\/hJYCXQ7g"},
+{"ID":"3","Nama Motor":"H2R","Merk Motor":"Kawasaki","Tahun Produksi":"2015","Cylinder":"4","Gambar":"https:\/\/postimg.cc\/FYZ8HKZs"},
+{"ID":"4","Nama Motor":"Brutale 1000 RR","Merk Motor":"MV Agusta","Tahun Produksi":"2021","Cylinder":"4","Gambar":"https:\/\/postimg.cc\/r0zvbL5y"},
+{"ID":"5","Nama Motor":"Streetfighter V4","Merk Motor":"Ducati","Tahun Produksi":"2020","Cylinder":"4","Gambar":"https:\/\/postimg.cc\/bDJhhnfh"},
+{"ID":"6","Nama Motor":"Z1000 Sugomi","Merk Motor":"Kawasaki","Tahun Produksi":"2013","Cylinder":"4","Gambar":"https:\/\/postimg.cc\/Y4B6ZNgv"}
+]
+}
+]
